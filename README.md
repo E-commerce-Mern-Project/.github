@@ -30,13 +30,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/online-clothes-shopping.git
+git clone https://github.com/E-commerce-Mern-Project/
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd online-clothes-shopping
+cd [folder-name]
 ```
 
 3. Install dependencies for both frontend and backend:
